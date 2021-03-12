@@ -3,5 +3,5 @@
 const jestConfigConformance = require('..');
 
 describe('jest-config-conformance', () => {
-    it('needs tests');
+  it('needs tests');
 });

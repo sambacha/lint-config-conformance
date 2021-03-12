@@ -3,5 +3,5 @@
 const browserlistConfigConformance = require('..');
 
 describe('browserlist-config-conformance', () => {
-    it('needs tests');
+  it('needs tests');
 });
