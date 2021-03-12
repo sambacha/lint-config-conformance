@@ -1,0 +1,32 @@
+{
+  "name": "browserlist-config-conformance",
+  "version": "0.0.0",
+  "description": "browserlist",
+  "keywords": [
+    "browserlist"
+  ],
+  "author": "sam <sam@freighttrust.com>",
+  "homepage": "https://github.com/sambacha/lint-config-conformance",
+  "license": "Apache-2.0",
+  "main": "lib/browserlist-config-conformance.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/lint-config-conformance.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/sambacha/lint-config-conformance/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
